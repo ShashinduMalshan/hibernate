@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hibernate_gdse_71@localhost" uuid="c5dfa64a-80f6-4c25-bf35-f1f74515d2d2">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hibernate_gdse_71</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="com.intellij.clouds.kubernetes.db.host.port" />
+        <property name="com.intellij.clouds.kubernetes.db.enabled" value="false" />
+        <property name="com.intellij.clouds.kubernetes.db.container.port" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="lib:hibernate-release-5.6.0.Final:project:hibernate-envers:src:test:resources:hibernate.test.session-cfg.xml/Hibernate" uuid="173d9753-c376-4e4d-8b9c-909595bd1b9c">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/shasidu/Desktop/hibarnate/lib/hibernate-release-5.6.0.Final/project/hibernate-envers/src/test/resources/hibernate.test.session-cfg.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:envers</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="lib:hibernate-release-5.6.0.Final:project:documentation:src:main:asciidoc:quickstart:tutorials:osgi:unmanaged-native:src:main:resources:hibernate.cfg.xml/Hibernate" uuid="2ddac510-aca3-44c5-8d7c-28105c06d2be">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/shasidu/Desktop/hibarnate/lib/hibernate-release-5.6.0.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/osgi/unmanaged-native/src/main/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:db1;DB_CLOSE_DELAY=-1;MVCC=TRUE</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="lib:hibernate-release-5.6.0.Final:project:documentation:src:main:asciidoc:quickstart:tutorials:basic:src:test:resources:hibernate.cfg.xml/Hibernate" uuid="84136580-fe4e-486a-905c-ca6b8fda98c8">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/shasidu/Desktop/hibarnate/lib/hibernate-release-5.6.0.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/basic/src/test/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:db1;DB_CLOSE_DELAY=-1;MVCC=TRUE</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="lib:hibernate-release-5.6.0.Final:project:documentation:src:main:asciidoc:quickstart:tutorials:annotations:src:test:resources:hibernate.cfg.xml/Hibernate" uuid="0d498573-2040-4599-b5c6-7bf73a85977e">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/shasidu/Desktop/hibarnate/lib/hibernate-release-5.6.0.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/annotations/src/test/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:db1;DB_CLOSE_DELAY=-1;MVCC=TRUE</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ConsolePU/Hibernate" uuid="58e8a727-5283-4af8-8a2b-9a8a1a41691d">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/shasidu/Desktop/hibarnate/lib/hibernate-release-5.6.0.Final/project/hibernate-envers/src/demo/resources/META-INF/persistence.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:db1;DB_CLOSE_DELAY=-1;MVCC=TRUE</jdbc-url>
+      <jdbc-additional-properties>
+        <property name="com.intellij.clouds.kubernetes.db.host.port" />
+        <property name="com.intellij.clouds.kubernetes.db.enabled" value="false" />
+        <property name="com.intellij.clouds.kubernetes.db.container.port" />
+      </jdbc-additional-properties>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="lib:hibernate-release-5.6.0.Final:project:hibernate-osgi:src:test:resources:hibernate.cfg.xml/Hibernate" uuid="6dc3d993-c42a-40db-b4e5-c2ef53d66ba9">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/shasidu/Desktop/hibarnate/lib/hibernate-release-5.6.0.Final/project/hibernate-osgi/src/test/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:db1;DB_CLOSE_DELAY=-1</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="lib:hibernate-release-5.6.0.Final:project:hibernate-core:src:test:resources:org:hibernate:jpa:test:hibernate.cfg.xml/Hibernate" uuid="90a59441-b2eb-4308-8831-68906b4bc9fb">
+      <driver-ref>hsqldb.remote</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/shasidu/Desktop/hibarnate/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/resources/org/hibernate/jpa/test/hibernate.cfg.xml</remarks>
+      <jdbc-driver>org.hsqldb.jdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:.</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="lib:hibernate-release-5.6.0.Final:project:hibernate-core:src:test:bundles:templates:cfgxmlpar:org:hibernate:jpa:test:pack:cfgxmlpar:hibernate.cfg.xml/Hibernate" uuid="db0331ca-4b5c-449a-bd00-7ea8b377e7b9">
+      <driver-ref>h2.unified</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/shasidu/Desktop/hibarnate/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/bundles/templates/cfgxmlpar/org/hibernate/jpa/test/pack/cfgxmlpar/hibernate.cfg.xml</remarks>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:db1;DB_CLOSE_DELAY=-1</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="613de23c-96d5-42e3-b460-fa846d485d07">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/shasidu/Desktop/hibarnate/src/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hibernate_gdse_71?createDatabaseIfNotExist=true</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

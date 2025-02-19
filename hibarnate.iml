@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map>
+          <unit-entry name="foo" />
+          <unit-entry name="hibernate.cfg.xml" value="613de23c-96d5-42e3-b460-fa846d485d07" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:documentation:src:main:asciidoc:quickstart:tutorials:annotations:src:test:resources:hibernate.cfg.xml" value="0d498573-2040-4599-b5c6-7bf73a85977e" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:documentation:src:main:asciidoc:quickstart:tutorials:basic:src:test:resources:hibernate.cfg.xml" value="84136580-fe4e-486a-905c-ca6b8fda98c8" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:documentation:src:main:asciidoc:quickstart:tutorials:osgi:unmanaged-native:src:main:resources:hibernate.cfg.xml" value="2ddac510-aca3-44c5-8d7c-28105c06d2be" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-core:src:test:bundles:templates:cfgxmlpar:org:hibernate:jpa:test:pack:cfgxmlpar:hibernate.cfg.xml" value="db0331ca-4b5c-449a-bd00-7ea8b377e7b9" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-core:src:test:java:org:hibernate:test:boot:cfgXml:badnamespace.cfg.xml" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-core:src:test:java:org:hibernate:test:cfg:cache:hibernate.cfg.xml" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-core:src:test:resources:org:hibernate:jpa:test:hibernate.cfg.xml" value="90a59441-b2eb-4308-8831-68906b4bc9fb" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-core:src:test:resources:org:hibernate:orm:test:bootstrap:jpa:hibernate.cfg.xml" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-core:src:test:resources:org:hibernate:test:annotations:hibernate.cfg.xml" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-core:src:test:resources:org:hibernate:test:schematoolsnaming:hibernate.cfg.xml" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-ehcache:src:test:resources:hibernate-config:hibernate.cfg.xml" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-envers:src:test:resources:hibernate.test.session-cfg.xml" value="173d9753-c376-4e4d-8b9c-909595bd1b9c" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-jcache:src:test:resources:hibernate-config:hibernate.cfg.xml" />
+          <unit-entry name="lib:hibernate-release-5.6.0.Final:project:hibernate-osgi:src:test:resources:hibernate.cfg.xml" value="6dc3d993-c42a-40db-b4e5-c2ef53d66ba9" />
+        </datasource-map>
+        <naming-strategy-map />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/annotations/src/test/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/basic/src/test/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/documentation/src/main/asciidoc/quickstart/tutorials/osgi/unmanaged-native/src/main/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/etc/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/bundles/templates/cfgxmlpar/org/hibernate/jpa/test/pack/cfgxmlpar/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/java/org/hibernate/test/boot/cfgXml/badnamespace.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/java/org/hibernate/test/boot/cfgXml/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/java/org/hibernate/test/cfg/cache/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/resources/org/hibernate/jpa/test/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/resources/org/hibernate/orm/test/bootstrap/jpa/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/resources/org/hibernate/test/annotations/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-core/src/test/resources/org/hibernate/test/schematoolsnaming/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-ehcache/src/test/resources/hibernate-config/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-envers/src/test/resources/hibernate.test.session-cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-jcache/src/test/resources/hibernate-config/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-osgi/src/test/resources/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/hibernate.cfg.xml" />
+      </configuration>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <datasource-mapping>
+          <factory-entry name="ConsolePU" value="58e8a727-5283-4af8-8a2b-9a8a1a41691d" />
+        </datasource-mapping>
+        <naming-strategy-map />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/lib/hibernate-release-5.6.0.Final/project/hibernate-envers/src/demo/resources/META-INF/persistence.xml" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="mysql-connector-j-9.0.0 (1)" level="project" />
+  </component>
+</module>
